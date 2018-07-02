@@ -63,3 +63,5 @@ The application project can be imported in Eclipse IDE. In order to import the p
     From the eclipse, import the projects using `File -> Import... -> General -> Existing Projects into Workspace` menu. In the import project wizard check the Search for nested projects so that all the submodules are also imported.
 
 You can also run the application inside eclipse using eclipse WTP tools. Create a tomcat8.5 server add the axelor-demo module and run the server.
+
+Prerak Shah
